@@ -1,5 +1,5 @@
 # gchisto
-A garbage collection log visualisation tool. Originally hosted at https://java.net/projects/gchisto.  Moved it to github and mavenized it.
+A Hotspot JVM garbage collection log visualisation tool. Originally hosted at https://java.net/projects/gchisto.  Moved it to github and mavenized it.
 
 
 # How to build gchisto
